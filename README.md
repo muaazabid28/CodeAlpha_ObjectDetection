@@ -17,3 +17,7 @@ It can recognize **80+ objects** such as people, cars, laptops, animals, and mor
 - Install dependencies (in cmd):
   pip install opencv-python pillow numpy
 
+Note : Download the required YOLOv3 files:
+- yolov3.weights
+- yolov3.cfg
+- coco.names
