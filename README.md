@@ -1,5 +1,3 @@
-# CodeAlpha_ObjectDetection
-
 🔍 Real-Time Object Detection
 
 An interactive **Python Tkinter application** for real-time object detection using **YOLOv3** and **OpenCV**.  
